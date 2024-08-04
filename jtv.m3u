@@ -1,5 +1,5 @@
 #EXTM3U
-x-tvg-url="https://cuyc.short.gy/Denver-epg.xml.gz"
+x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_key=https://jtvkey.firecaptain94.workers.dev/?id=143
 #EXTINF:-1 tvg-id="143" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business News",CNBC Tv18 Prime HD
